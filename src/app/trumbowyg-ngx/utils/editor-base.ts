@@ -56,6 +56,7 @@ export abstract class EditorBase implements ControlValueAccessor, OnInit, AfterV
 
     writeValue(value: any): void {
         this._initValue = value;
+        this.setContent(this._initValue);
     }
 
     setDisabledState(disabled: boolean): void {
