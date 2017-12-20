@@ -1,1 +1,1 @@
-export * from './src/app/trumbowyg-ngx/trumbowyg-ngx.module';
+export * from './src/app/jad-trumbowyg-ngx/jad-trumbowyg-ngx.module';

@@ -125,6 +125,7 @@
       true,
       "element",
       "trumbowyg-ngx",
+      "jad-trumbowyg-ngx",
       "kebab-case"
     ],
     "use-input-property-decorator": true,

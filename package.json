@@ -1,6 +1,6 @@
 {
-  "name": "trumbowyg-ngx",
-  "version": "1.0.3",
+  "name": "jad-trumbowyg-ngx",
+  "version": "1.0.4",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -50,18 +50,18 @@
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
   },
-  "description": "This an Angular wrapper for [Trumbowyg WYSIWYG editor](https://alex-d.github.io/Trumbowyg/).",
+  "description": "This an Angular wrapper for [Trumbowyg WYSIWYG editor](Forked from : https://alex-d.github.io/Trumbowyg/).",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wermerb/trumbowyg-ngx.git"
+    "url": "git+https://github.com/jeremyadoux/trumbowyg-ngx.git"
   },
   "keywords": [
     "trumbowyg",
     "Angular"
   ],
-  "author": "Balázs Wermer <wermerb@gmail.com>",
+  "author": "Adoux Jérémy <jeremy.adoux@gmail.com>",
   "bugs": {
-    "url": "https://github.com/wermerb/trumbowyg-ngx/issues"
+    "url": "https://github.com/jeremyadoux/trumbowyg-ngx/issues"
   },
-  "homepage": "https://github.com/wermerb/trumbowyg-ngx#readme"
+  "homepage": "https://github.com/jeremyadoux/trumbowyg-ngx#readme"
 }
